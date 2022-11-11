@@ -1,0 +1,15 @@
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\bin\Debug\net6.0\Semi1_commonzad.exe
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\bin\Debug\net6.0\Semi1_commonzad.deps.json
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\bin\Debug\net6.0\Semi1_commonzad.runtimeconfig.json
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\bin\Debug\net6.0\Semi1_commonzad.dll
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\bin\Debug\net6.0\Semi1_commonzad.pdb
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.csproj.AssemblyReference.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.AssemblyInfoInputs.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.AssemblyInfo.cs
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.csproj.CoreCompileInputs.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.dll
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\refint\Semi1_commonzad.dll
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.pdb
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\Semi1_commonzad.genruntimeconfig.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Semi1_commonzad\obj\Debug\net6.0\ref\Semi1_commonzad.dll

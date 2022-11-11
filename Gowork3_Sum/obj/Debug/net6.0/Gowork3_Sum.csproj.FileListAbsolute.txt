@@ -1,0 +1,15 @@
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\bin\Debug\net6.0\Gowork3_Sum.exe
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\bin\Debug\net6.0\Gowork3_Sum.deps.json
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\bin\Debug\net6.0\Gowork3_Sum.runtimeconfig.json
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\bin\Debug\net6.0\Gowork3_Sum.dll
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\bin\Debug\net6.0\Gowork3_Sum.pdb
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.csproj.AssemblyReference.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.AssemblyInfoInputs.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.AssemblyInfo.cs
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.dll
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\refint\Gowork3_Sum.dll
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.pdb
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\Gowork3_Sum.genruntimeconfig.cache
+C:\Users\Стасик\Desktop\Учёба\C#\Gowork3_Sum\obj\Debug\net6.0\ref\Gowork3_Sum.dll

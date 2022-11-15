@@ -1,8 +1,12 @@
-﻿
-int number = new Random().Next(10, 100);   // Генерируем числа от 10 до 99 (надо добавить 1)
-Console.WriteLine($"{number}-> ");
+﻿int number = new Random().Next(10, 100);   // Генерируем числа от 10 до 99 (надо добавить 1)
 
 int a = number / 10;            // Для получения целого числа
-Console.WriteLine($"a = {a} ");
 int b = number % 10;            // Для получения остатка от деления
-Console.WriteLine($"b = {b} ");
+
+int max;
+if (a > b)
+    max = a;
+else
+    max = b;
+
+Console.WriteLine($"{number} -> {max}");

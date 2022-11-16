@@ -2,14 +2,14 @@
 int a =int.Parse(Console.ReadLine());
 Console.WriteLine("Введите число 2 ");
 int b =int.Parse(Console.ReadLine());
-int c = b % a;
+int c = a % b;
 string res;
 if(c==0)
 {
-    res="кратно";
+    res = "кратно";
 }
 else
 {
-    res = "не кратно";
+    res = $"не кратно, остаток: {c}";
 }
-Console.WriteLine();
+Console.WriteLine($"{a} , {b} = {res}");

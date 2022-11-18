@@ -3,7 +3,7 @@ int number = int.Parse(Console.ReadLine());
 while (true)
 {
     Console.WriteLine("Является выходным?");
-    if (number ==1)
+    if (number == 1)
     {
         Console.WriteLine($"{number} -> Понедельник не выходной");
         return;
@@ -13,7 +13,7 @@ while (true)
         Console.WriteLine($"{number} -> Вторник не выходной");
         return;
     }
-    if (number ==3)
+    if (number == 3)
     {
         Console.WriteLine($"{number} -> Среда не выходной");
         return;
@@ -23,12 +23,12 @@ while (true)
         Console.WriteLine($"{number} -> Четверг не выходной");
         return;
     }
-    if (number ==5)
+    if (number == 5)
     {
         Console.WriteLine($"{number} -> Пятница не выходной");
         return;
     }
-    if (number ==6)
+    if (number == 6)
     {
         Console.WriteLine($"{number} -> Суббота выходной");
         return;

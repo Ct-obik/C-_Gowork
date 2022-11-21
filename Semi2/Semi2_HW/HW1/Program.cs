@@ -1,18 +1,18 @@
-﻿Console.WriteLine("Введите число:");
+﻿// находим 2 цифру из 3-х значного числа
+Console.WriteLine("Введите число:");
 int number = int.Parse(Console.ReadLine());
 int max = 1000;
 int min = 99;
-while (number > min)
+while (true)
 {
-    if (number < max)
+    if (number >min && number < max)  
     {
-        int a = (number / 10) % 10;
-        Console.WriteLine($"Вторая цифра числа - {a}");
-        return;
+    Console.WriteLine($"Вторая цифра числа - {number / 10 % 10}");
     }
     else
     {
-        break;
+    Console.WriteLine("Ошибка");
     }
+    return;
 }
 Console.WriteLine("Ошибка ввода");

@@ -2,7 +2,7 @@
 // присутствует ли заданное число в массиве.
 
 Console.Clear();
-int userNum = GetNumberFromUser("Введите целое число: ","Ошибка ввода!");
+int userNum = GetNumberFromUser("Введите целое число: ", "Ошибка ввода!");
 int[] array = GetArray(12, -9, 9);
 string answer = IsThereANumber(array, userNum);
 Console.Write(String.Join(" ", array));
@@ -10,14 +10,14 @@ Console.WriteLine($" -> {answer}");
 
 int GetNumberFromUser(string message, string errorMessage)
 {
-    while(true)
+    while (true)
     {
         Console.Write(message);
         bool isCorrect = int.TryParse(Console.ReadLine(), out int userNumber);
-        if(isCorrect)
+        if (isCorrect)
             return userNumber;
         Console.WriteLine(errorMessage);
-    } 
+    }
 }
 
 int[] GetArray(int size, int minValue, int maxValue)
@@ -35,7 +35,7 @@ string IsThereANumber(int[] array, int num)
     string answer = "";
     foreach (int element in array)
     {
-        if (element == num) 
+        if (element == num)
         {
             answer = "да";
             break;

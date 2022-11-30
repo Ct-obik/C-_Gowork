@@ -20,7 +20,7 @@ for (int rows = 0; rows < 2; rows++)
 //   {
 //        Console.Write($"{martix[i, j]} ");
 //    }
-//Console.Write();
+//Console.WriteLine();
 //}
 
 // в результате мы увидим нули в виде матрицы

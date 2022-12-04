@@ -19,14 +19,16 @@ int GetNumberFromUser(string message, string errorMessage)
     }
 }
 
-double[,] GetArray(int m, int n, int minValue, int maxValue)
+double[,] GetArray(int m, int n, double minValue, double maxValue)
 {
     double[,] result = new double[m, n];
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
-        {
-            result[i, j] = new Random().Next(minValue, maxValue + 1); ;
+        {            // далее создаём вещественное число
+            var random= new Random();
+            double r=random.NextDouble();
+            result[i, j] =Math.Round((r * (maxValue - minValue) + minValue), 2); 
         }
     }
     return result;

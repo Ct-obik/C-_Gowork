@@ -10,11 +10,10 @@ Console.Write("Введите кол-во столбцов массива: ", "�
 int columns = int.Parse(Console.ReadLine() ?? "");
 
 int[,] array = GetArray(rows, columns, 0, 10);  
-int[] minEl = MinElement(array);
+int[,] newReversArray = ReversArray(array);
 PrintArray(array);
 Console.WriteLine();
-DeleteRowColumn(array);
-PrintArray(array);
+PrintArray(newReversArray);
                   
 
 int[,] GetArray(int m, int n, int minValue, int maxValue)
@@ -42,16 +41,15 @@ void PrintArray(int[,] inArray)
     }
 }
 
-int[] MinElement(int[,] arr)
+int[,] ReversArray(int[,] arr)
 {
-    int min = arr[0,0];
+    int[,] revers = new int[arr.GetLength(1), arr.GetLength(0)] ;
     for (int i = 0; i < arr.GetLength(0); i++)
     {
         for (int j = 0; j < arr.GetLength(1); j++)
         {
-            if (arr [i,j] < min)
-            min = arr[i,j];
+            revers[i,j] = arr[j,i];
         }
     }
-    return min;
+    return revers;
 }
